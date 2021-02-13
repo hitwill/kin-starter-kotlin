@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kin</string>
+    <string name="send_kin">Send Kin</string>
+    <string name="messages"></string>
+    <string name="payments"></string>
+    <string name="balance"></string>
+    <string name="address"></string>
+    <string name="refresh">Refresh</string>
+</resources>
